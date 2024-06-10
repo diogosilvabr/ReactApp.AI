@@ -6,7 +6,7 @@ Este projeto é uma aplicação React para análise de bases de dados utilizando
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org) instalado na versão 14 ou superior.
+- [Node.js](https://nodejs.org) instalado na versão 18.20.3 (LTS). OBS.: aconselho não utilizar a versão 20 ou 22
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) para gerenciar dependências.
 
 ### Instalação
