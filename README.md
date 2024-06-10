@@ -6,7 +6,7 @@ Este projeto é uma aplicação React para análise de bases de dados utilizando
 
 ### Pré-requisitos
 
-- [Node.js](https://nodejs.org) baixar a versão 18.20.3 (LTS) no site: https://nodejs.org/en/download/package-manager. OBS.: aconselho não utilizar a versão 20 ou 22
+- [Node.js](https://nodejs.org) baixar a versão 18.20.3 (LTS) clicando [AQUI](https://nodejs.org/en/download/prebuilt-installer). OBS.: aconselho não utilizar a versão 20 ou 22
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) para gerenciar dependências.
 
 ### Instalação
