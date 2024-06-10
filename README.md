@@ -29,8 +29,12 @@ Este projeto é uma aplicação React para análise de bases de dados utilizando
     ```bash
     npm start
     ```
+### Como Usar
 
-    O aplicativo será aberto em [http://localhost:3000](http://localhost:3000).
+1. O aplicativo será aberto em [http://localhost:3000](http://localhost:3000).
+2. **Escolha um modelo de IA**: Selecione entre Árvore de Decisão, KNN, ou Algoritmo Genético.
+3. **Carregue um arquivo CSV**: Use o botão de upload para carregar a base de dados.
+4. **Execute a Análise**: Clique em "ANÁLISE" para executar a análise.
 
 ### Estrutura do Projeto
 
@@ -41,12 +45,6 @@ Este projeto é uma aplicação React para análise de bases de dados utilizando
   - `index.css`: Arquivo de estilos.
   - `index.js`: Ponto de entrada da aplicação.
 - **`package.json`**: Lista as dependências e scripts do projeto.
-
-### Como Usar
-
-1. **Escolha um modelo de IA**: Selecione entre Árvore de Decisão, KNN, ou Algoritmo Genético.
-2. **Carregue um arquivo CSV**: Use o botão de upload para carregar a base de dados.
-3. **Execute a Análise**: Clique em "ANÁLISE" para executar a análise.
 
 ### Tecnologias Utilizadas
 
